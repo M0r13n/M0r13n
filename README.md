@@ -3,7 +3,7 @@ I am a DevOps Engineer based in Kiel, Germany.
 I spend most of my time automating things.
 
 I can offer:
-- several years of experience in hydro acoustic systems for naval, hydro graphic and commercial applications as a DevOps Engineer
+- several years of experience in hydro acoustic systems for naval and commercial applications as a DevOps Engineer
 - advanced level Python programming skills
 - experience across the entire Linux stack(from Kernel, networking, containerization to applications)
 - practical knowledge in managing highly available systems
