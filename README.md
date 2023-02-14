@@ -1,6 +1,5 @@
 # Ahoy!
 I am a DevOps Engineer based in Kiel, Germany.
-I spend most of my time automating things.
 
 I can offer:
 - several years of experience in hydro acoustic systems for naval and commercial applications as a DevOps Engineer
